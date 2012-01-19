@@ -1,0 +1,27 @@
+{
+    "name": "astar",
+    "version": "0.1",
+    "title": "A* for Crafty",
+    "author": {
+        "name": "Lucas Bittencourt",
+        "url": "https://github.com/lukebitts/"
+    },
+    "licenses": [
+        {
+            "type": "MIT",
+            "url": "http://www.opensource.org/licenses/mit-license.php"
+        }
+    ],
+    "description": "Simple and easy pathfinding for CraftyJS",
+    "keywords": [
+        "pathfinding",
+        "a*",
+        "astar",
+        "a star"
+    ],
+    "jsfiddle" : "", 
+    "homepage": "https://github.com/lukebitts/A_star-for-Crafty",
+    "files": [
+        "astar.js", 
+    ]
+}
