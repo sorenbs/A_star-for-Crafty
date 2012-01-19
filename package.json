@@ -1,7 +1,7 @@
 {
     "name": "astar",
     "version": "0.1",
-    "title": "A* for Crafty",
+    "title": "A*(star) for Crafty",
     "author": {
         "name": "Lucas Bittencourt",
         "url": "https://github.com/lukebitts/"
